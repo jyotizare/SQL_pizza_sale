@@ -13,35 +13,35 @@ The project addresses various analytical questions through MySQL queries, which 
 
 Basic Questions:
 
-Retrieve the total number of orders placed.
+1. Retrieve the total number of orders placed.
 
-Calculate the total revenue generated from pizza sales.
+2. Calculate the total revenue generated from pizza sales.
 
-Identify the highest-priced pizza.
+3. Identify the highest-priced pizza.
 
-Identify the most common pizza size ordered.
+4. Identify the most common pizza size ordered.
 
-List the top 5 most ordered pizza types along with their quantities.
+5. List the top 5 most ordered pizza types along with their quantities.
 
 Intermediate Questions:
 
-Join the necessary tables to find the total quantity of each pizza category ordered.
+6. Join the necessary tables to find the total quantity of each pizza category ordered.
 
-Determine the distribution of orders by hour of the day.
+7. Determine the distribution of orders by hour of the day.
 
-Join relevant tables to find the category-wise distribution of pizzas.
+8. Join relevant tables to find the category-wise distribution of pizzas.
 
-Group the orders by date and calculate the average number of pizzas ordered per day.
+9. Group the orders by date and calculate the average number of pizzas ordered per day.
 
-Determine the top 3 most ordered pizza types based on revenue.
+10. Determine the top 3 most ordered pizza types based on revenue.
 
 Advanced Questions:
 
-Calculate the percentage contribution of each pizza type to total revenue.
+11. Calculate the percentage contribution of each pizza type to total revenue.
 
-Analyze the cumulative revenue generated over time.
+12. Analyze the cumulative revenue generated over time.
 
-Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
 The MySQL queries addressing these questions are included in the Solutions file.
 
