@@ -1,7 +1,5 @@
 # SQL_pizza_sale_analysis
-Pizza sales data analysis using MySQL.
-Pizza Sales Analysis
-This project analyzes pizza sales data using MySQL. The analysis is based on four CSV files that were imported into a MySQL server. The files and their respective columns are as follows:
+Pizza sales data analysis using MySQL. This project analyzes pizza sales data using MySQL. The analysis is based on four CSV files that were imported into a MySQL server. The files and their respective columns are as follows:
 
 order_details: order_details_id, order_id, pizza_id, quantity
 
